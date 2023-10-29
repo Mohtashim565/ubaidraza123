@@ -1,0 +1,26 @@
+* {
+  /* font-size: 1em !important; */
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+input {
+  display: inline !important;
+  font-size: 19em;
+}
+button {
+  box-shadow: 2px 1px 3px 9px solid black !important ;
+  height: 40% !important;
+  width: 30%;
+  color: white;
+  font-size: xx-large;
+  background-color: gray !important;
+}
+body {
+  text-align: center;
+  color: black;
+  font-size: 2em;
+}
+p {
+  font-size: 2em;
+}
